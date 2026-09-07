@@ -1,10 +1,10 @@
-# XR Teardown — [Spacetop G1]
+# XR Teardown — [XREAL One Pro]
 
 **[5025231073] — [Bella Angeline Chong Puteri]** · [S1 Informatics / S1 AI Engineering] · Individual Assignment 1
 
 |                          |                                                                    |
 | ------------------------ | ------------------------------------------------------------------ |
-| Subject                  |Spacetop G1                                     |
+| Subject                  |XREAL One Pro                                     |
 | Publisher / manufacturer | [Who ships it]                                                     |
 | Release or major update  | [Month Year — must be 2023 or later]                               |
 | Platform(s)              | [e.g. Meta Quest 3, Pico 4 Ultra, visionOS, WebXR, Android XR]     |
