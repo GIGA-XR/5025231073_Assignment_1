@@ -1,2 +1,2 @@
 
-# Extended Reality (XR) Teardown: Samsung Galaxy XR
+# Extended Reality (XR) Teardown: Spacetop G1
