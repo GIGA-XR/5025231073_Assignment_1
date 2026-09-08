@@ -45,21 +45,16 @@
 
 | Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
 | -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
-| Perception           | 3DoF pose/head tracking via the X1 chip                    |      On Device              | They optimize low latency | [https://docs.xreal.com/XREALDevices/XREAL%20Glasses] self-developed X1 chip, enabling direct connection with various devices while providing 3DoF tracking capabilities  |                  |                                                   | [link] — "[quote]"                |
-| Interaction          | Multimodal AI capabilities (image recogmition and voice commands)                             |                    |                                                   | [https://us.shop.xreal.com/blogs/news/xreal-one-series-launch-global-press-release] XREAL Eye will add multimodal AI capabilities, including image recognition and communication via voice commands, in unison with an AI or voice assistant coming from the glasses' host device                |
-| Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |                                                   | [xreal.com/one-pro] Say goodbye to motion sickness - with our self-Developed stabilization algorithm              |
-
-> Every row needs the **quoted sentence**, not just the link. A claim with a bare URL behind it is an unsupported claim.
-
-[Then the paragraph that actually earns the marks: what is the AI *for* here — is it load-bearing, or is it decoration? If you concluded there is no meaningful AI, this is where you show where you looked and why absence is plausible.]
+| Perception           | 3DoF pose/head tracking via the X1 chip                    |      On Device              | Battery drain on host device, minor thermal output on temple arms | [https://docs.xreal.com/XREALDevices/XREAL%20Glasses] self-developed X1 chip, enabling direct connection with various devices while providing 3DoF tracking capabilities  |                  |                                                   | [link] — "[quote]"                |
+| Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |    Processing overhead, silicon footprint                                               | [https://www.xreal.com/one-pro] X1 can insert frames to display content at up to 120 fps for ultra-smooth playback.  |
 
 ## 4. Impact
 
-**Intended benefit:** [Concrete enough that someone could check whether it is true.]
+**Intended benefit:** A portable and private big-screen display. The official marketing frames this as up to a 171” (curved ultrawide up to 310”) virtual screen for travel, gaming, and productivity via a single USB-C cable without carrying a monitor. 
 
-**Privacy, security, or ethics:** [Tie this to sensor data the device really captures — hand and body pose, room scans and scene meshes, passthrough camera frames, voice. What is collected, where does it go, and who is exposed — including bystanders who never consented.]
+**Privacy, security, or ethics:** Base operation of the XREAL One Pro presents low privacy risks as the glasses lack internal cameras. However, privacy concerns arise when using the optional XREAL Eye module, which adds a 12MP camera for quick POV photos and 1080p video triggered by the frame buttons without unlocking a phone. While the module features a visible privacy LED indicator light to alert bystanders when one is actively recording, some users may still feel uncomfortable around the device in public spaces. XREAL lessens this through physical modularity: the 1.35g camera can be detached completely in private spaces. While effective, this relies entirely on the wearer’s choice, meaning bystanders must trust the wearer’s etiquette or notice the small LED when the module is attached. 
 
-**Accessibility / human factors:** [Who cannot use this, and why? Height, one-handed use, vision, motion sensitivity, cybersickness, language, cost.]
+**Accessibility / human factors:** Dual IPD sizing (57-66mm & 66-75mm) is marketed as covering roughly 95% of users, meaning certain adults with IPD measurements outside of this range suffer from optical misalignment and image blur. Children are excluded entirely by design, as XREAL’s official safety guidelines designate the device for users aged 16 and older. Prescription lens support requires a third-party partner service, adding cost and a separate ordering step.
 
 ## 5. What I take from this
 
