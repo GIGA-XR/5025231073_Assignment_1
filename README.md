@@ -41,8 +41,6 @@
 
 ## 3. Use of AI
 
-[Go through the pipeline and report only what you can evidence. Delete the rows you find nothing for — an honest short table beats a padded one.]
-
 | Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
 | -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
 | Perception           | 3DoF pose/head tracking via the X1 chip                    |      On Device              | Battery drain on host device, minor thermal output on temple arms | [https://docs.xreal.com/XREALDevices/XREAL%20Glasses] self-developed X1 chip, enabling direct connection with various devices while providing 3DoF tracking capabilities  |                  |                                                   | [link] — "[quote]"                |
