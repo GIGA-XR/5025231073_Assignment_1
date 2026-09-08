@@ -5,8 +5,8 @@
 |                          |                                                                    |
 | ------------------------ | ------------------------------------------------------------------ |
 | Subject                  |XREAL One Pro                                     |
-| Publisher / manufacturer | [Who ships it]                                                     |
-| Release or major update  | [Month Year — must be 2023 or later]                               |
+| Publisher / manufacturer | XREAL                                                   |
+| Release or major update  | Announced 4 Dec 2024 (San Francisco); US general availability sales began 1 Jul 2025                            |
 | Platform(s)              | [e.g. Meta Quest 3, Pico 4 Ultra, visionOS, WebXR, Android XR]     |
 | How I examined it        | [Hands-on on a lab Quest 3 / documentation and spec sheets / both] |
 | Hands-on date(s)         | [when you actually put the headset on, or "documentation only"]    |
@@ -45,10 +45,9 @@
 
 | Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
 | -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
-| Perception           | [hand/body pose, scene mesh, relocalisation]                    |                    | [latency / battery / thermal / network / privacy] | [link] — "[quote the sentence]"   |
-| Content              | [text- or image-to-3D, upscaling, texture synthesis]            |                    |                                                   | [link] — "[quote]"                |
-| Interaction          | [STT, TTS, LLM agent, translation]                              |                    |                                                   | [link] — "[quote]"                |
-| Rendering & delivery | [foveation, frame interpolation, super-resolution, split/cloud] |                    |                                                   | [link] — "[quote]"                |
+| Perception           | 3DoF pose/head tracking via the X1 chip                    |      On Device              | They optimize low latency | [https://docs.xreal.com/XREALDevices/XREAL%20Glasses] self-developed X1 chip, enabling direct connection with various devices while providing 3DoF tracking capabilities  |                  |                                                   | [link] — "[quote]"                |
+| Interaction          | Multimodal AI capabilities (image recogmition and voice commands)                             |                    |                                                   | [https://us.shop.xreal.com/blogs/news/xreal-one-series-launch-global-press-release] XREAL Eye will add multimodal AI capabilities, including image recognition and communication via voice commands, in unison with an AI or voice assistant coming from the glasses' host device                |
+| Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |                                                   | [xreal.com/one-pro] Say goodbye to motion sickness - with our self-Developed stabilization algorithm              |
 
 > Every row needs the **quoted sentence**, not just the link. A claim with a bare URL behind it is an unsupported claim.
 
