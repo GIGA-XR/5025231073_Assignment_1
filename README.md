@@ -17,7 +17,7 @@
 
 ## 1. Device class
 
-The XREAL One Pro is optical see through (OST) smart glasses. It features built-in 3SoF head tracking powered by the custom X1 co-processor chip. It operates without an internal battery or standalone OS, running entirely via host devices over USB-C.
+The XREAL One Pro is optical see through (OST) smart glasses. It features built-in 3DoF head tracking powered by the custom X1 co-processor chip. It operates without an internal battery or standalone OS, running entirely via host devices over USB-C.
 
 On Milgram's continuum, it sits squarely in Augmented Reality (AR). Unlike VR or camera-based video passthrough. you see the physical world directly through transparent optics with digital content overlaid on top. Because the base model tracks head rotation (3DoF) rather than full position (6DoF), it prioritizes screen stability over complex environment mapping, though 6DoF can be added through the optional XREAL Eye accessory. 
 
