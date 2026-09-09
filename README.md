@@ -37,7 +37,7 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 **Where it fails:** The limitation is that physical buttons are well suited to display adjustments, but not to interacting with virtual objects. For example, changing the screen mode is straightforward, but manipulating a virtual object or cursor is less direct than pointing or pinching in space. The optional XREAL Eye addresses this limitation, but its gesture interaction depends on the camera being able to clearly see the user's hands. 
 
-**What I would change:** I would keep the physical buttons for quick system controls but add a small touch-sensitive area on the temple for scrolling, swiping, and selecting. For more advanced interaction, I would make hand tracking an optional input method rather than the only method. This would still keep the current controls simple but give users a more direct way to interact with spatial content.
+**What I would change:** I would keep the physical buttons for quick system controls but add a small touch-sensitive area on the temple for scrolling, swiping, and selecting. This would still keep the current controls simple but give users a more direct way to interact with spatial content.
 
 ![Caption](assets/fig2.png)
 
