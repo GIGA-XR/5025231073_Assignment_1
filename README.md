@@ -11,7 +11,7 @@
 | How I examined it        | [Hands-on on a lab Quest 3 / documentation and spec sheets / both] |
 | Hands-on date(s)         | [when you actually put the headset on, or "documentation only"]    |
 
-> **My claim in one sentence.** [State the argument this teardown defends. Not a summary — a claim someone could disagree with. This is also how you open your 3-minute presentation.]
+> **My claim in one sentence.** By relying on an external host device for power and compute, the XREAL One Pro succeeds as a lightweight wearable display, but falls short of being a self-contained AR computer.
 
 ---
 
