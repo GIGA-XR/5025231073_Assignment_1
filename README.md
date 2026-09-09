@@ -17,11 +17,11 @@
 
 ## 1. Device class
 
-[Which hardware class does it target? Name it precisely — degrees of freedom, standalone or tethered, opaque or passthrough, colour or monochrome, controllers shipped or not.]
+The XREAL One Pro is optical see through (OST) smart glasses. It features built-in 3SoF head tracking powered by the custom X1 co-processor chip. It operates without an internal battery or standalone OS, running entirely via host devices over USB-C.
 
-[Where does it sit on the reality–virtuality continuum, and why there rather than one step either side?]
+On Milgram's continuum, it sits squarely in Augmented Reality (AR). Unlike VR or camera-based video passthrough. you see the physical world directly through transparent optics with digital content overlaid on top. Because the base model tracks head rotation (3DoF) rather than full position (6DoF), it prioritizes screen stability over complex environment mapping, though 6DoF can be added through the optional XREAL Eye accessory. 
 
-[What does that class make possible, and what does it rule out? If it depends on a capability our lab hardware lacks — eye tracking, depth-aware colour passthrough below Quest 3 / Pico 4 Ultra — say so and say what breaks without it.]
+This hardware class trades away standalone computing and room-scale spatial tracking to keep the device lightweight and comfortable (~87g). It works well as a private, portable monitor precisely because it does not try to be a heavy, self contained AR computer. 
 
 ![Caption that makes a point, not "screenshot of the app"](assets/fig1.png)
 
@@ -58,7 +58,7 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 ## 5. What I take from this
 
-[Two or three sentences. What does this teardown tell you about where XR design is heading — or where it is stuck? Do not summarise the sections above.]
+The XREAL One Pro suggests that the next step in XR may not be toward more immersive headsets, but toward less intrusive ones: lightweight glasses that turn existing devices into spatial displays without requiring heavy cameras, controllers, or an isolated virtual environment. However, this simplicity comes with a clear trade-off. By avoiding the spatial sensing and interaction hardware required for richer spatial computing, the device remains exceptionally easy to wear, but remains fundamentally limited in how deeply it can understand and respond to the physical world around it. 
 
 ---
 
