@@ -31,11 +31,13 @@
 
 **What the user does:** System navigation relies mainly on physical controls on the right temple arm, including the multifunction toggle for brightness and volume and display-mode switching between "Anchor" and "Follow". Spatial viewing also uses head orientation, while more complex interactions are handled by the connected host device, such as a mouse, keyboard, gamepad, or smartphone touchscreen. 
 
-**Why this and not that:** [Argue the choice against a named alternative the product did not take. What did it buy, and what did it give up?]
+**Why this and not that:** The design prioritizes simple controls rather than making the glasses themselves responsible for direct spatial interaction. XREAL's own documentation shows that hand tracking is possible through the optional XREAL Eye, which uses a camera to track hand gestures and translate them into mouse/button signals. However, XREAL describes gesture control as experimental and notes that lightning, hand position, and visiblity of the fingers can affect recognition. 
 
-**Where it fails:** [At least one concrete failure mode — precision, arm fatigue, discoverability, occlusion, lighting, standing vs seated, small rooms, accessibility.]
+Therefore, physical buttons provide a more predictable way to control the glasses, while hand tracking offers more natural spatial interaction at the cost of additional environmental requirements.  
 
-**What I would change:** [One substantiated remedy. Say why it would work, not just that it would be nicer.]
+**Where it fails:** The limitation is that physical buttons are well suited to display adjustments, but not to interacting with virtual objects. For example, changing the screen mode is straightforward, but manipulating a virtual object or cursor is less direct than pointing or pinching in space. The optional XREAL Eye addresses this limitation, but its gesture interaction depends on the camera being able to clearly see the user's hands. 
+
+**What I would change:** I would keep the physical buttons for quick system controls but add a small touch-sensitive area on the temple for scrolling, swiping, and selecting. For more advanced interaction, I would make hand tracking an optional input method rather than the only method. This would still keep the current controls simple but give users a more direct way to interact with spatial content.
 
 ![Caption](assets/fig2.png)
 
