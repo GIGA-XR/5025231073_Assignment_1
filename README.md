@@ -7,8 +7,8 @@
 | Subject                  |XREAL One Pro                                     |
 | Publisher / manufacturer | XREAL                                                   |
 | Release or major update  | Announced 4 Dec 2024 (San Francisco); US general availability sales began 1 Jul 2025                            |
-| Platform(s)              | [e.g. Meta Quest 3, Pico 4 Ultra, visionOS, WebXR, Android XR]     |
-| How I examined it        | [Hands-on on a lab Quest 3 / documentation and spec sheets / both] |
+| Platform(s)              | X1 Spatial Chip (Host-dependent via USB-C DP Alt Mode)   |
+| How I examined it        | Official documentation and technical specs |
 | Hands-on date(s)         | [when you actually put the headset on, or "documentation only"]    |
 
 > **My claim in one sentence.** By relying on an external host device for power and compute, the XREAL One Pro succeeds as a lightweight wearable display, but falls short of being a self-contained AR computer.
@@ -23,9 +23,9 @@ On Milgram's continuum, it sits squarely in Augmented Reality (AR). Unlike VR or
 
 This hardware class trades away standalone computing and room-scale spatial tracking to keep the device lightweight and comfortable (~87g). It works well as a private, portable monitor precisely because it does not try to be a heavy, self contained AR computer. 
 
-![Caption that makes a point, not "screenshot of the app"](assets/fig1.png)
+<img width="1280" height="800" alt="fig1" src="https://github.com/user-attachments/assets/6cac5257-1d59-4e5a-8d15-b9b945234947" />
+[Fig 1. XREAL One Pro hardware components.]
 
-> **One of your three figures must be your own** — a photo or capture of your own hands-on session on a lab headset, or your own measurement, with a visible date. Mark it clearly in the figure credits below.
 
 ## 2. Input modality
 
@@ -45,8 +45,9 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 | Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
 | -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
-| Perception           | 3DoF pose/head tracking via the X1 chip                    |      On Device              | Battery drain on host device, minor thermal output on temple arms | [https://docs.xreal.com/XREALDevices/XREAL%20Glasses] self-developed X1 chip, enabling direct connection with various devices while providing 3DoF tracking capabilities  |                  |                                                   | [link] — "[quote]"                |
+| Perception           | On-device AI depth estimation and real-time 2D-to-3D video conversion running on the X1 chip's NPU. (Optional XREAL Eye adds camera-based hand & 6DoF tracking.) |     On-device (X1 NPU)          | Additional processing/power demand. Added weight and cost when using XREAL Eye. | [https://www.xreal.com/blog/how-we-built-real-3d-en]  X1 includes a dedicated Neural Processing Unit (NPU) designed to run AI workloads efficiently on the glasses themselves |                  |                                                   | [link] — "[quote]"                |
 | Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |    Processing overhead, silicon footprint                                               | [https://www.xreal.com/one-pro] X1 can insert frames to display content at up to 120 fps for ultra-smooth playback.  |
+
 
 ## 4. Impact
 
@@ -64,10 +65,11 @@ The XREAL One Pro suggests that the next step in XR may not be toward more immer
 
 ## References
 
-1. [Primary source — developer documentation, specification, technical paper, or your own measurement. At least one of these is required.]
-2. [Author/Publisher. (Year). *Title*. URL — accessed DD Mon 2026]
-3. [ ]
-4. [ ]
+1. **VR-Compare.** (2025). *XREAL One Pro Full Specifications & Hardware Database*. VR-Compare. https://vr-compare.com/headset/xrealonepro — accessed 9 Sep 2026.
+2. **XREAL.** (2025). *Inside REAL 3D: How XREAL Built It and How the X1 Chip Paves the Way*. XREAL Official Blog. https://www.xreal.com/blog/inside-real-3d-x1-chip — accessed 9 Sep 2026. On-device NPU specification and 2D-to-3D depth processing pipeline.
+3. **XREAL.** (2025). *XREAL One Series Official Hardware Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/glasses/one-series/spec#xreal-one-pro — accessed 9 Sep 2026.
+4. **XREAL.** (2025). *XREAL Eye Camera Module Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/accessories/eye/spec/ — accessed 9 Sep 2026.
+5. **XREAL.** (2025). *Gesture Control Guidelines & Operational Prerequisites*. XREAL Developer Documentation. https://tutorials.xreal.com/docs/glasses/one-series/gesture/before-you-begin/ — accessed 9 Sep 2026.
 
 ## Figure credits
 
