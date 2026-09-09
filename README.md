@@ -29,7 +29,7 @@
 
 ## 2. Input modality
 
-**What the user does:** [The modalities actually used — controllers, hand tracking, gaze-and-pinch, voice, gesture, dwell, physical props, room-scale locomotion.]
+**What the user does:** System navigation relies mainly on physical controls on the right temple arm, including the multifunction toggle for brightness and volume and display-mode switching between "Anchor" and "Follow". Spatial viewing also uses head orientation, while more complex interactions are handled by the connected host device, such as a mouse, keyboard, gamepad, or smartphone touchscreen. 
 
 **Why this and not that:** [Argue the choice against a named alternative the product did not take. What did it buy, and what did it give up?]
 
