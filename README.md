@@ -26,6 +26,9 @@ This hardware class trades away standalone computing and room-scale spatial trac
 <img width="1280" height="800" alt="fig1" src="https://github.com/user-attachments/assets/6cac5257-1d59-4e5a-8d15-b9b945234947" />
 [Fig 1. XREAL One Pro hardware components.]
 
+
+
+
 <img width="671" height="550" alt="Screenshot 2026-09-09 at 23 57 52" src="https://github.com/user-attachments/assets/1962afc3-6ec4-4e2e-a53c-82664c835574" />
 [Fig 2. XREAL One Pro system architecture & data flow diagram.]
 
