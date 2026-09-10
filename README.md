@@ -23,14 +23,17 @@ On Milgram's continuum, it sits squarely in Augmented Reality (AR). Unlike VR or
 
 This hardware class trades away standalone computing and room-scale spatial tracking to keep the device lightweight and comfortable (~87g). It works well as a private, portable monitor precisely because it does not try to be a heavy, self contained AR computer. 
 
-<img width="1280" height="800" alt="fig1" src="https://github.com/user-attachments/assets/6cac5257-1d59-4e5a-8d15-b9b945234947" />
-[Fig 1. XREAL One Pro hardware components.]
+<p>
+  <img src="https://github.com/user-attachments/assets/6cac5257-1d59-4e5a-8d15-b9b945234947" alt="Fig 1. XREAL One Pro hardware components" width="100%" />
+  <br />
+  <em>Fig 1. XREAL One Pro hardware components.</em>
+</p>
 
-
-
-
-<img width="671" height="550" alt="Screenshot 2026-09-09 at 23 57 52" src="https://github.com/user-attachments/assets/1962afc3-6ec4-4e2e-a53c-82664c835574" />
-[Fig 2. XREAL One Pro system architecture & data flow diagram.]
+<p>
+  <img src="https://github.com/user-attachments/assets/1962afc3-6ec4-4e2e-a53c-82664c835574" alt="Fig 2. XREAL One Pro system architecture & data flow diagram" width="100%" />
+  <br />
+  <em>Fig 2. XREAL One Pro system architecture & data flow diagram.</em>
+</p>
 
 
 ## 2. Input modality
