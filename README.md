@@ -26,6 +26,9 @@ This hardware class trades away standalone computing and room-scale spatial trac
 <img width="1280" height="800" alt="fig1" src="https://github.com/user-attachments/assets/6cac5257-1d59-4e5a-8d15-b9b945234947" />
 [Fig 1. XREAL One Pro hardware components.]
 
+<img width="671" height="550" alt="Screenshot 2026-09-09 at 23 57 52" src="https://github.com/user-attachments/assets/1962afc3-6ec4-4e2e-a53c-82664c835574" />
+[Fig 2. XREAL One Pro system architecture & data flow diagram.]
+
 
 ## 2. Input modality
 
@@ -39,7 +42,9 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 **What I would change:** I would keep the physical buttons for quick system controls but add a small touch-sensitive area on the temple for scrolling, swiping, and selecting. This would still keep the current controls simple but give users a more direct way to interact with spatial content.
 
-![Caption](assets/fig2.png)
+<img width="1280" height="640" alt="button" src="https://github.com/user-attachments/assets/b608921d-b7b0-43c3-92d0-a3b8139df66d" />
+[Fig 3. XREAL One Pro physical control layout on the right temple arm.]
+
 
 ## 3. Use of AI
 
@@ -74,12 +79,12 @@ The XREAL One Pro suggests that the next step in XR may not be toward more immer
 ## Figure credits
 
 - Fig. 1 — [XREAL One Pro hardware components.]
-- Fig. 2 — [ ]
-- Fig. 3 — [ ]
+- Fig. 2 — [XREAL One Pro system architecture & data flow diagram.]
+- Fig. 3 — [XREAL One Pro physical control layout on the right temple arm.]
 
 ## AI-assistance disclosure
 
-**What I used, and for what.** [Name the tools and the tasks — e.g. "Claude to tighten the prose in §2; all sources located and read by me." If you used none, write "None."]
+**What I used, and for what.** I used Gemini to help with citation format, discuss technical concepts I found difficult to understand, and clarify some information from the device documentation. I used these discussions to support my understanding, but I independently checked the relevant information against the original sources and made the final decisions about what claims to include.
 
 ### What I disagreed with my AI assistant about
 
