@@ -49,7 +49,7 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 **What I would change:** I would keep the physical buttons for quick system controls but add a small touch-sensitive area on the temple for scrolling, swiping, and selecting. This would still keep the current controls simple but give users a more direct way to interact with spatial content.
 
 <img width="1280" height="640" alt="button" src="https://github.com/user-attachments/assets/b608921d-b7b0-43c3-92d0-a3b8139df66d" />
-[Fig 3. XREAL One Pro physical control layout on the right temple arm.]
+</em>Fig 3. XREAL One Pro physical control layout on the right temple arm.</em>
 
 
 ## 3. Use of AI
