@@ -78,10 +78,11 @@ The XREAL One Pro suggests that the next step in XR may not be toward more immer
 ## References
 1. **Tested.** (2025). *XREAL One Pro + Eye Review!* YouTube. https://youtu.be/9TnBpCnX31c
 2. **VR-Compare.** (2025). *XREAL One Pro Full Specifications & Hardware Database*. VR-Compare. https://vr-compare.com/headset/xrealonepro
-3. **XREAL.** (2025). *Inside REAL 3D: How XREAL Built It and How the X1 Chip Paves the Way*. XREAL Official Blog. https://www.xreal.com/blog/inside-real-3d-x1-chip. On-device NPU specification and 2D-to-3D depth processing pipeline.
-4. **XREAL.** (2025). *XREAL One Series Official Hardware Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/glasses/one-series/spec#xreal-one-pro
-5. **XREAL.** (2025). *XREAL Eye Camera Module Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/accessories/eye/spec/
-6. **XREAL.** (2025). *Gesture Control Guidelines & Operational Prerequisites*. XREAL Developer Documentation. https://tutorials.xreal.com/docs/glasses/one-series/gesture/before-you-begin/
+3. **XREAL.** (2025). *How We Built REAL 3D*. XREAL Official Blog. https://www.xreal.com/blog/how-we-built-real-3d-en
+4. **XREAL.** (2025). *Inside REAL 3D: How XREAL Built It and How the X1 Chip Paves the Way*. XREAL Official Blog. https://www.xreal.com/blog/inside-real-3d-x1-chip. On-device NPU specification and 2D-to-3D depth processing pipeline.
+5. **XREAL.** (2025). *XREAL One Series Official Hardware Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/glasses/one-series/spec#xreal-one-pro
+6. **XREAL.** (2025). *XREAL Eye Camera Module Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/accessories/eye/spec/
+7. **XREAL.** (2025). *Gesture Control Guidelines & Operational Prerequisites*. XREAL Developer Documentation. https://tutorials.xreal.com/docs/glasses/one-series/gesture/before-you-begin/
 
 ## Figure credits
 
