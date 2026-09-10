@@ -54,11 +54,8 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 ## 3. Use of AI
 
-| Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
-| -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
-| Perception           | On-device AI depth estimation and real-time 2D-to-3D video conversion running on the X1 chip's NPU. (Optional XREAL Eye adds camera-based hand & 6DoF tracking.) |     On-device (X1 NPU)          | Additional processing/power demand. Added weight and cost when using XREAL Eye. | [https://www.xreal.com/blog/how-we-built-real-3d-en]  X1 includes a dedicated Neural Processing Unit (NPU) designed to run AI workloads efficiently on the glasses themselves |                  |                                                   | [link] — "[quote]"                |
+| Perception           | On-device AI depth estimation and real-time 2D-to-3D video conversion running on the X1 chip's NPU. (Optional XREAL Eye adds camera-based hand & 6DoF tracking.) |     On-device (X1 NPU)          | Additional processing/power demand. | [https://www.xreal.com/blog/how-we-built-real-3d-en]  X1 includes a dedicated Neural Processing Unit (NPU) designed to run AI workloads efficiently on the glasses themselves |                  |                                                   | [link] — "[quote]"                |
 | Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |    Processing overhead, silicon footprint                                               | [https://www.xreal.com/one-pro] X1 can insert frames to display content at up to 120 fps for ultra-smooth playback.  |
-
 
 ## 4. Impact
 
@@ -94,4 +91,4 @@ The XREAL One Pro suggests that the next step in XR may not be toward more immer
 
 ### What I disagreed with my AI assistant about
 
-[One paragraph, and it is marked. Where did the tool tell you something you decided was wrong, shallow, or unsupported — and what did you do instead? Be specific: name the claim, name your reason. If you used no tools, write instead about a source you decided not to trust, and why.]
+Initially, the AI assistant suggested that adding the optional XREAL Eye module would add significant physical weight to the glasses. I questioned this because the module weighs only 1.35 grams. Instead of describing the issue as added weight, I refined the analysis to focus on ergonomics. Since the module is mounted on the front of the glasses, it could shift the weight slightly forward toward the nose, although I did not measure its actual effect on long-term comfort.
