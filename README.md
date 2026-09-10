@@ -54,6 +54,8 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 ## 3. Use of AI
 
+| Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
+| -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
 | Perception           | On-device AI depth estimation and real-time 2D-to-3D video conversion running on the X1 chip's NPU. (Optional XREAL Eye adds camera-based hand & 6DoF tracking.) |     On-device (X1 NPU)          | Additional processing/power demand. | [https://www.xreal.com/blog/how-we-built-real-3d-en]  X1 includes a dedicated Neural Processing Unit (NPU) designed to run AI workloads efficiently on the glasses themselves |                  |                                                   | [link] — "[quote]"                |
 | Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |    Processing overhead, silicon footprint                                               | [https://www.xreal.com/one-pro] X1 can insert frames to display content at up to 120 fps for ultra-smooth playback.  |
 
