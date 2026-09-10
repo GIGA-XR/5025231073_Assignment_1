@@ -74,7 +74,7 @@ The XREAL One Pro suggests that the next step in XR may not be toward more immer
 ---
 
 ## References
-1. **Chan, N. / Tested.** (2025). *XREAL One Pro + Eye Review!* YouTube. https://youtu.be/9TnBpCnX31c
+1. **Tested.** (2025). *XREAL One Pro + Eye Review!* YouTube. https://youtu.be/9TnBpCnX31c
 2. **VR-Compare.** (2025). *XREAL One Pro Full Specifications & Hardware Database*. VR-Compare. https://vr-compare.com/headset/xrealonepro
 3. **XREAL.** (2025). *Inside REAL 3D: How XREAL Built It and How the X1 Chip Paves the Way*. XREAL Official Blog. https://www.xreal.com/blog/inside-real-3d-x1-chip. On-device NPU specification and 2D-to-3D depth processing pipeline.
 4. **XREAL.** (2025). *XREAL One Series Official Hardware Specifications*. XREAL Tutorials. https://tutorials.xreal.com/docs/glasses/one-series/spec#xreal-one-pro
