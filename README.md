@@ -54,10 +54,12 @@ Therefore, physical buttons provide a more predictable way to control the glasse
 
 ## 3. Use of AI
 
+
 | Where                | What it does                                                    | On-device or cloud | Cost it carries                                   | Source + the line I am relying on |
 | -------------------- | --------------------------------------------------------------- | ------------------ | ------------------------------------------------- | --------------------------------- |
-| Perception           | On-device AI depth estimation and real-time 2D-to-3D video conversion running on the X1 chip's NPU. (Optional XREAL Eye adds camera-based hand & 6DoF tracking.) |     On-device (X1 NPU)          | Additional processing/power demand. | [https://www.xreal.com/blog/how-we-built-real-3d-en]  X1 includes a dedicated Neural Processing Unit (NPU) designed to run AI workloads efficiently on the glasses themselves |                  |                                                   | [link] — "[quote]"                |
-| Rendering & delivery | Image stabilization and disortion correction |             On device (X1 Chip)       |    Processing overhead, silicon footprint                                               | [https://www.xreal.com/one-pro] X1 can insert frames to display content at up to 120 fps for ultra-smooth playback.  |
+| Perception           | On-device AI depth estimation and real-time 2D-to-3D video conversion running on the X1 chip's NPU. (Optional XREAL Eye adds camera-based hand & 6DoF tracking.) |     On-device (X1 NPU)          | Additional processing/power demand. | [https://www.xreal.com/blog/how-we-built-real-3d-en]  X1 includes a dedicated Neural Processing Unit (NPU) designed to run AI workloads efficiently on the glasses themselves |      
+
+In the XREAL One Pro, AI is limited strictly to the Perception layer, where the X1 chip's NPU performs real-time 2D-to-3D depth estimation. This AI functionality is decoration rather than load-bearing, it is an optional perceptual enhancement that converts standard 2D video into spatial 3D visuals. The core display pipeline (3DoF tracking, 120Hz frame rendering, and optical distortion correction) does not rely on AI at all, but rather on deterministic hardware display engines. After examining XREAL's technical documentation and display architecture, the absence of broader AI (such as on-device LLMs or generative rendering) is understandable: adding heavy AI models would increase weight, thermal output, and battery draw, undermining the device's main goal of remaining a lightweight (~87g) spatial display.
 
 ## 4. Impact
 
